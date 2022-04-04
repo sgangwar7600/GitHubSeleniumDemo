@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="244413" started-at="2021-12-28T07:39:21Z" finished-at="2021-12-28T07:43:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="244413" started-at="2021-12-28T07:39:21Z" finished-at="2021-12-28T07:43:25Z">
+      <class name="com.qa.tests.YesRegistrationPageTest">
+        <test-method status="PASS" signature="LaunchURL()[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="LaunchURL" is-config="true" duration-ms="5772" started-at="2021-12-28T07:39:21Z" finished-at="2021-12-28T07:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURL -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="setup" is-config="true" duration-ms="78" started-at="2021-12-28T07:39:26Z" finished-at="2021-12-28T07:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginForYesRegistration()[pri:1, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="LoginForYesRegistration" duration-ms="42825" started-at="2021-12-28T07:39:27Z" finished-at="2021-12-28T07:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginForYesRegistration -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="tearDown" is-config="true" duration-ms="3" started-at="2021-12-28T07:40:09Z" finished-at="2021-12-28T07:40:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginForYesRegistration status=SUCCESS method=YesRegistrationPageTest.LoginForYesRegistration()[pri:1, instance:com.qa.tests.YesRegistrationPageTest@79efed2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="setup" is-config="true" duration-ms="2" started-at="2021-12-28T07:40:09Z" finished-at="2021-12-28T07:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Register()[pri:2, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="Register" duration-ms="22968" started-at="2021-12-28T07:40:09Z" finished-at="2021-12-28T07:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-28T07:40:32Z" finished-at="2021-12-28T07:40:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Register status=SUCCESS method=YesRegistrationPageTest.Register()[pri:2, instance:com.qa.tests.YesRegistrationPageTest@79efed2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="setup" is-config="true" duration-ms="1" started-at="2021-12-28T07:40:32Z" finished-at="2021-12-28T07:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RegisterForm1()[pri:3, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="RegisterForm1" duration-ms="95272" started-at="2021-12-28T07:40:32Z" finished-at="2021-12-28T07:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterForm1 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-28T07:42:08Z" finished-at="2021-12-28T07:42:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RegisterForm1 status=SUCCESS method=YesRegistrationPageTest.RegisterForm1()[pri:3, instance:com.qa.tests.YesRegistrationPageTest@79efed2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="setup" is-config="true" duration-ms="1" started-at="2021-12-28T07:42:08Z" finished-at="2021-12-28T07:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="DetailsOfNomnee()[pri:4, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="DetailsOfNomnee" duration-ms="30965" started-at="2021-12-28T07:42:08Z" finished-at="2021-12-28T07:42:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DetailsOfNomnee -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-12-28T07:42:39Z" finished-at="2021-12-28T07:42:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DetailsOfNomnee status=SUCCESS method=YesRegistrationPageTest.DetailsOfNomnee()[pri:4, instance:com.qa.tests.YesRegistrationPageTest@79efed2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="setup" is-config="true" duration-ms="1" started-at="2021-12-28T07:42:39Z" finished-at="2021-12-28T07:42:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="FamilyInsuredPerson()[pri:5, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="FamilyInsuredPerson" duration-ms="39501" started-at="2021-12-28T07:42:39Z" finished-at="2021-12-28T07:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FamilyInsuredPerson -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-28T07:43:18Z" finished-at="2021-12-28T07:43:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FamilyInsuredPerson status=SUCCESS method=YesRegistrationPageTest.FamilyInsuredPerson()[pri:5, instance:com.qa.tests.YesRegistrationPageTest@79efed2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="setup" is-config="true" duration-ms="2" started-at="2021-12-28T07:43:18Z" finished-at="2021-12-28T07:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="DetailsofBankAccountsofInsuredPerson()[pri:6, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="DetailsofBankAccountsofInsuredPerson" duration-ms="6886" started-at="2021-12-28T07:43:18Z" finished-at="2021-12-28T07:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DetailsofBankAccountsofInsuredPerson -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.tests.YesRegistrationPageTest@79efed2d]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-12-28T07:43:25Z" finished-at="2021-12-28T07:43:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DetailsofBankAccountsofInsuredPerson status=SUCCESS method=YesRegistrationPageTest.DetailsofBankAccountsofInsuredPerson()[pri:6, instance:com.qa.tests.YesRegistrationPageTest@79efed2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.YesRegistrationPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
